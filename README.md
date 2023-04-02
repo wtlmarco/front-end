@@ -51,7 +51,7 @@
 <ul>
   <li>
     <a href="https://github.com/wtlmarco/php/tree/main/projects/fre02-surfstore">Surf Store</a>
-    :rocket:  Em construção  :rocket:
+    :triangular_flag_on_post:
   </li>
 </ul>
 
