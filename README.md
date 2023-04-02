@@ -29,7 +29,7 @@
 </h3>
 <ul>
   <li>
-    <a href="https://github.com/wtlmarco/php/tree/main/study/fre01-bootstrap">Bootstrap V5</a>
+    <a href="https://github.com/wtlmarco/front-end/tree/main/study/fre01-bootstrap">Bootstrap V5</a>
     :triangular_flag_on_post:
   </li>
 </ul>
@@ -50,7 +50,7 @@
 </h3>
 <ul>
   <li>
-    <a href="https://github.com/wtlmarco/php/tree/main/projects/fre02-surfstore">Surf Store</a>
+    <a href="https://github.com/wtlmarco/front-end/tree/main/projects/fr02-surfstore">Surf Store, utilizando Bootstrap V5</a>
     :triangular_flag_on_post:
   </li>
 </ul>
